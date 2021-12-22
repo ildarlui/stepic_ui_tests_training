@@ -1,0 +1,2 @@
+# stepic_ui_tests_training
+stepic_ui_tests_training
